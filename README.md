@@ -157,3 +157,25 @@ Após descompactar os arquivos CSV, siga as instruções abaixo para navegar at�
     - Se você tiver um arquivo JAR:
       bash
       java -jar nome_do_arquivo.jar
+
+
+## Relatório Completo
+
+Para um entendimento mais aprofundado sobre a implementação, os algoritmos de ordenação utilizados e a análise de desempenho, recomendamos que você consulte o relatório completo disponível neste link.(https://github.com/Felipe-Valdevino/project_LEDA/blob/main/roteiro_projeto.pdf).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      https://github.com/Felipe-Valdevino/project_LEDA/blob/main/roteiro_projeto.pdf
